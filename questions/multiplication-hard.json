@@ -1,0 +1,44 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Multiplication",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "x * x * x = 27",
+      "correct_answer": "3",
+      "answers": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Multiplication",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "2 * (x + 2) = 14",
+      "correct_answer": "5",
+      "answers": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "category": "Multiplication",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "x * (x + 5) = 50",
+      "correct_answer": "5",
+      "answers": [
+        "5",
+        "10",
+        "2",
+        "25"
+      ]
+    }
+  ]
+}

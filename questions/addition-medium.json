@@ -1,0 +1,44 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Addition",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "x + 28 = 65",
+      "correct_answer": "37",
+      "answers": [
+        "27",
+        "37",
+        "29",
+        "50"
+      ]
+    },
+    {
+      "category": "Addition",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "99 + x = 117",
+      "correct_answer": "18",
+      "answers": [
+        "16",
+        "27",
+        "18",
+        "19"
+      ]
+    },
+    {
+      "category": "Addition",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "133 + 158 = x",
+      "correct_answer": "291",
+      "answers": [
+        "311",
+        "301",
+        "291",
+        "271"
+      ]
+    }
+  ]
+}

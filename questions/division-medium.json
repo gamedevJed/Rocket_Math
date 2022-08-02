@@ -1,0 +1,31 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Division",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "24 / (6 + x)  = 2",
+      "correct_answer": "6",
+      "answers": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "category": "Division",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "(4 + x) / 6 = 10",
+      "correct_answer": "56",
+      "answers": [
+        "11",
+        "56",
+        "54",
+        "58"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Subtraction",
+      "difficulty": "medium",
+      "question": "100 - x = 24",
+      "correct_answer": "76",
+      "answers": [
+        "76",
+        "75",
+        "77",
+        "66"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "x - 103 = 24",
+      "correct_answer": "127",
+      "answers": [
+        "127",
+        "125",
+        "137",
+        "21"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "328 - 297 = 31",
+      "correct_answer": "31",
+      "answers": [
+        "32",
+        "31",
+        "28",
+        "34"
+      ]
+    }
+  ]
+}

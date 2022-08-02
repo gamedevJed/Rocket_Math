@@ -1,0 +1,56 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Subtraction",
+      "difficulty": "hard",
+      "question": "122 - x = 25",
+      "correct_answer": "97",
+      "answers": [
+        "99",
+        "95",
+        "97",
+        "101"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "73 - x = 12",
+      "correct_answer": "61",
+      "answers": [
+        "63",
+        "61",
+        "60",
+        "59"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "x - 1001 = 206",
+      "correct_answer": "1207",
+      "answers": [
+        "1205",
+        "1305",
+        "1207",
+        "1107"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "x - 93 = 94",
+      "correct_answer": "187",
+      "answers": [
+        "185",
+        "187",
+        "180",
+        "179"
+      ]
+    }
+  ]
+}

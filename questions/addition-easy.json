@@ -1,0 +1,53 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Addition",
+      "difficulty": "easy",
+      "question": "X + 7 = 10",
+      "correct_answer": "3",
+      "answers": [
+        "3",
+        "4",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "category": "Addition",
+      "difficulty": "easy",
+      "question": "x + 24 = 32",
+      "correct_answer": "8",
+      "answers": [
+        "2",
+        "9",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "category": "Addition",
+      "difficulty": "easy",
+      "question": "x + 19 = 23",
+      "correct_answer": "4",
+      "answers": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "category": "Addition",
+      "difficulty": "easy",
+      "question": "x + 13 = 31",
+      "correct_answer": "18",
+      "answers": [
+        "8",
+        "19",
+        "18",
+        "13"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Subtraction",
+      "difficulty": "easy",
+      "question": "x - 24 = 8",
+      "correct_answer": "32",
+      "answers": [
+        "32",
+        "30",
+        "28",
+        "34"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "41 - 9 = x",
+      "correct_answer": "32",
+      "answers": [
+        "33",
+        "32",
+        "31",
+        "34"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "24 - x = 13",
+      "correct_answer": "11",
+      "answers": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "17 - 8 = x",
+      "correct_answer": "9",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ]
+    }
+  ]
+}
